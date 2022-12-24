@@ -1,0 +1,3 @@
+[build]
+  publish = ".demo/.output/public"
+  command = "npm run generate"

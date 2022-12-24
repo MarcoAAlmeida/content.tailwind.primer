@@ -1,12 +1,11 @@
 export default defineAppConfig({
   // Configure Content Wind here
   socials: {
-    twitter: 'Atinux',
-    github: 'Atinux/content-wind'
+    github: 'MarcoAAlmeida/content.tailwind.primer'
   },
   prose: {
     h1: {
-      icon: 'carbon:sailboat-coastal'
+      icon: 'logos:nuxt-icon'
     }
   }
 })
